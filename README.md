@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaushani1
-- 👀 I’m interested in Cybersecurity and backend development.
-- 🌱 I’m currently learning C programming.
-- 💞️ I’m looking to collaborate on exciting backend projects.
+- 👀 I’m interested in Cybersecurity and frontend development.
+- 🌱 I’m currently learning C++ programming.
+- 💞️ I’m looking to collaborate on exciting frontend projects.
 - 📫 How to reach me (will be attaching my LinkedIn account soon).
 
 <!---
